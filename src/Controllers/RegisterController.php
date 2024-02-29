@@ -55,7 +55,7 @@ class RegisterController
             $mail->Host = 'smtp.gmail.com'; // Servidor SMTP
             $mail->SMTPAuth = true;
             $mail->Username = 'natancg17@gmail.com'; // SMTP username
-            $mail->Password = 'iccp ixpd ctib wgbr'; // SMTP password
+            $mail->Password = 'AAAA AAAA AAAA AAAA'; // SMTP password
             $mail->SMTPSecure = 'tls'; // Habilita encriptación TLS; PHPMailer::ENCRYPTION_SMTPS también aceptado
             $mail->Port = 587; // Puerto TCP para conectarse
         
